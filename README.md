@@ -1,5 +1,5 @@
 # INI Parser
-INI Parser for GO.
+INI Parser with GO.
 <br>
 ### INI files are parsed by go-ini line-by-line. Each line may be one of the following:
 * **A section definition: [section-name]**
