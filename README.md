@@ -7,8 +7,10 @@ INI Parser with GO.
 * **Blank. The line will be ignored.**
 
 ### Features: 
-  **1. Read INI file and extract all information.**
-  **2. Get specific section with its keys.<br/>**
-  **3. update value of specific key.</br>**
-  **4. Get value of specific key.</br>**
-  **5. list all sections' names.**
+*  **Read INI file and extract all information.</br>**
+*  **Read data from string.</br>**
+*  **List all sections with their keys.<br/>**
+*  **List sections' names.</br>**
+*  **Update value of specific key.</br>**
+*  **List all keys of specific section.</br>**
+*  **Save data to new file.</br>**
